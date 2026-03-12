@@ -1,0 +1,13 @@
+[package]
+name = "heckel-diff"
+version = "1.0.0"
+edition = "2024"
+description = "Implementation Paul Heckel's algorithm"
+homepage = "https://github.com/wdonne/heckel-diff"
+repository = "https://github.com/wdonne/heckel-diff"
+license = "BSD-2-Clause"
+readme = "README.md"
+keywords = ["diff"]
+exclude = ["*.iml"]
+
+[dependencies]
